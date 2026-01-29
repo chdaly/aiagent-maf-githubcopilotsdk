@@ -1,0 +1,14 @@
+# Microsoft Agent Framework - Core
+agent-framework
+
+# Microsoft Agent Framework - Azure Integration
+agent-framework-azure
+
+# Microsoft Agent Framework - GitHub Copilot Integration (Preview)
+agent-framework-github-copilot --pre
+
+# Azure Identity for authentication
+azure-identity
+
+# Python dotenv for loading environment variables
+python-dotenv
